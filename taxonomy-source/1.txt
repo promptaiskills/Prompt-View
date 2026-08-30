@@ -1,0 +1,113 @@
+
+
+CONTENT, WRITING & LOCALIZATION
+1. Copywriting: Writing sales pages, ad copy, and landing page text instantly.
+2. SEO Optimization: Analyzing search trends and writing search-friendly articles.
+3. E-Commerce Product Descriptions: Generating unique item descriptions for thousands of online store products.
+4. Email Marketing: Personalizing automated email campaigns for individual buyers.
+5. Resume and Cover Letter Writing: Tailoring job application documents to specific job descriptions.
+6. Transcription and Summaries: Turning long audio or video files into clean text notes.
+7. Technical Documentation: Generating software manuals, API documentations, and engineering guides from source code.
+8. Scriptwriting & Storyboarding: Drafting YouTube video scripts, movie screenplays, and visual storyboards from plot outlines.
+9. Social Media Captioning: Writing daily punchy text posts, hashtags, and threads for corporate networks.
+10. Book & Novel Ghostwriting: Assisting authors with world-building, character generation, and long-form text.
+11. Academic Research & Synthesis: Scanning thousands of peer-reviewed papers to extract and cite relevant data.
+12. Grant & Proposal Writing: Drafting complex funding applications, non-profit grants, and government responses.
+13. Real-Time Subtitling & Dubbing: Generating video captions and syncing translated voice tracks instantly.
+
+DESIGN, MEDIA & ENTERTAINMENT
+14. Web Design: Building full website layouts and code from simple text prompts.
+15. Video Ad Generation: Creating short promotional clips and product videos automatically.
+16. Logo and Brand Design: Generating unique brand symbols, color palettes, and assets.
+17. Stock Image Creation: Producing custom graphics and photographs without a camera.
+18. Voiceover Generation: Turning written text into natural-sounding human voices.
+19. Podcast Editing: Removing background noise and cutting dead air automatically.
+20. Virtual Staging: Adding digital furniture into empty real estate photos.
+21. Game Asset Creation: Designing 3D models and textures for video games.
+22. UI/UX Prototyping: Converting wireframes and user flow ideas into high-fidelity app interfaces.
+23. Fashion & Textile Pattern Design: Creating repeatable fabric prints and conceptual clothing designs.
+24. Architecture & Floor Plan Modeling: Turning 2D blueprint sketches into fully rendered 3D building walk-throughs.
+25. Music & Beat Production: Composing royalty-free background soundtracks and ambient loops for creators.
+26. Special Effects (VFX) & Rotoscoping: Automating green-screen removal and computer-generated visual layering.
+27. Packaging & Label Design: Generating physical product boxes and container templates.
+28. Comic Book & Manga Illustration: Generating panels, line art, and background scenes from text scripts.
+29. 3D Character Rigging & Animation: Automating skeletal movement rigs for digital gaming characters.
+30. Children's Book Illustration: Creating cohesive, whimsical art styles featuring identical character models.
+31. Infographic Design: Converting raw metrics into visually scannable reports and charts.
+32. Photo Restoration & Colorization: Upscaling blurry images and realistically coloring old black-and-white photos.
+33. Sound Design & Foley Effects: Generating environmental soundscapes, footsteps, and cinematic audio effects.
+
+BUSINESS, SALES & OPERATIONS
+34. Customer Support Chatbots: Handling basic customer questions and returns twenty-four hours a day.
+35. Translation and Localization: Converting text and video into different languages with local slang.
+36. Lead Generation: Finding and verifying business contact details from public web data.
+37. Data Analysis: Turning raw spreadsheets into clear charts and business insights.
+38. Presentation Creation: Building slide decks and pitch presentations from rough outlines.
+39. Legal Document Drafting: Creating basic contracts and reviewing standard legal agreements.
+40. Financial Forecasting: Predicting future revenue and managing basic business budgets.
+41. Review Management: Reading and writing replies to customer feedback online.
+42. Competitor Intelligence Tracking: Scraping competitor pricing and marketing strategies to alert leaders.
+43. Inventory Optimization: Predicting exact product stock requirements to avoid warehouse shortages.
+44. Cold Outreach Personalization: Writing tailored B2B sales pitches based on a prospect's recent activities.
+45. HR & Employee Onboarding: Automating training modules and tracking employee progress.
+46. Meeting Transcription & Action Items: Summarizing live conference calls and extracting to-do lists.
+47. Patent & Trademark Searching: Analyzing global database filings to check if a design breaks existing laws.
+48. Contract Compliance Auditing: Scanning large agreements to call out hidden fees and liabilities.
+49. E-Commerce Dynamic Pricing: Adjusting product prices across web stores in real-time based on market demand.
+50. Customer Sentiment Analysis: Scanning thousands of internet mentions to grade public feeling toward a brand.
+51. Fraud Detection & Risk Scoring: Flagging unusual payment charges and identity theft indicators instantly.
+52. Procurement Evaluation: Scoring third-party vendor performance and delivery reliability automatically.
+53. Regulatory Compliance Monitoring: Scanning internal files to spot corporate policy violations or security threats.
+54. Real Estate Valuation & Appraisal: Calculating accurate property prices based on local market data trends.
+55. Affiliate Content Fleet Management: Orchestrating hundreds of informational blogs with automated internal linking.
+
+MARKETING, ADVERTISING & PR
+56. Influencer Sourcing: Matching corporate brands with niche creators whose audiences fit ideal metrics.
+57. Programmatic Ad Bidding: Managing real-time digital billboard and banner auction budgets automatically.
+58. Press Release Generation: Drafting journalistic media briefs and identifying target reporters.
+59. Brand Name & Tagline Ideation: Generating available corporate business titles and domain options.
+60. Funnel Optimization & A/B Testing: Shifting web traffic to whichever web page layout makes more sales.
+61. Community Management Moderation: Filtering out spam and toxicity across massive forums and Discord groups.
+62. User Review Prompts: Creating triggered post-purchase workflows that guide shoppers to write reviews.
+63. Retargeting Campaign Sequences: Drafting multi-tier ad scripts that slowly nudge cart-abandoners back to purchase.
+64. Interactive Survey Funnels: Building custom questionnaires that pitch a precise product based on answers.
+65. Podcast Guest Outreach: Identifying top audio shows and personalizing pitch notes to get executives booked.
+66. Local SEO Map Pack Optimization: Optimizing brick-and-mortar storefront profiles to rank higher in maps.
+
+SOFTWARE, CODING & TECHNICAL SERVICES
+67. Coding and Debugging: Writing and fixing computer software programs in seconds.
+68. Legacy Code Modernization: Translating ancient programming languages like COBOL into modern Python or Go code.
+69. Automated Software QA Testing: Writing test scripts that attempt to break software apps before public release.
+70. No-Code Application Generation: Building functioning mobile apps directly from conversational text.
+71. Database Query Optimization: Structuring complex relational databases and fixing slow search commands.
+72. Smart Contract Auditing: Scanning web3 and blockchain codes to ensure they are safe from hacker exploits.
+73. Cybersecurity Patching: Monitoring server infrastructure and writing code patches to close security holes.
+74. Synthetic Data Generation: Creating massive datasets of fake but realistic text to safely train other AI networks.
+75. Cloud Infrastructure Provisioning: Writing setup files to provision AWS or Azure cloud servers automatically.
+76. API Wrapper Development: Building custom middleware connectors that allow different software products to talk.
+77. Browser Extension Automation: Developing micro-tools for browsers that scrape info or automate workflows.
+78. Hardware Firmware Optimization: Writing highly efficient, lightweight machine code for microchip devices.
+
+EDUCATION, LIFESTYLE & PERSONAL CARE
+79. Travel Itinerary Planning: Building custom daily vacation plans and booking schedules.
+80. Fitness Coaching: Designing custom workout routines based on body type and goals.
+81. Meal Plan Generation: Creating grocery lists and diet plans for specific health needs.
+82. Personalized Tutoring: Explaining hard math and science topics at a student's own pace.
+83. Event Planning: Organizing guest lists, schedules, and checklist timelines.
+84. Fashion Styling: Recommending clothing combinations based on weather and personal taste.
+85. Interior Design: Suggesting room layouts and paint colors from phone camera scans.
+86. Language Learning Bots: Practicing foreign languages with personas that correct grammar in real-time.
+87. Curriculum & Lesson Planning: Building weekly educational lecture materials and worksheets for teachers.
+88. Genealogy Deep Search: Sifting historical scanned documents to trace family lineages and translate text.
+89. Speech Therapy Practice Companions: Listening to patient pronunciations and offering precise mouth adjustment feedback.
+90. Mental Well-being Cognitive Exercises: Guiding users through text-based stress relief and thought-tracking methods.
+91. Gardening & Urban Farming Planners: Tracking plant health from leaf pictures and generating watering schedules.
+92. Executive Schedule Triaging: Managing chaotic corporate calendars and prioritizing urgent messages.
+93. College Application Advisory Tools: Evaluating high school portfolios to suggest target colleges and edit essays.
+94. Pet Health & Behavior Analysis: Diagnosing common pet issues from phone scans of symptoms.
+95. Hobbyist Crafting Pattern Generators: Creating printable woodcarving blueprints, 3D printing shapes, and sewing patterns.
+96. Life Milestone Scrapbooking: Organizing digital photos, diaries, and timelines into physical history books.
+97. Financial Literacy Training: Building interactive scenario games to teach teenagers basic budgeting and taxes.
+98. Sleep Coaching: Analyzing wearable device tracking logs to output personalized routine changes.
+99. Elderly Companion Check-ins: Conversing with seniors over voice to keep them company and track medications.
+100. Recipe Customization: Reworking classic recipes into exact diabetic, vegan, or allergy-safe alternatives.
