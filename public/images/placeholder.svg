@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Prompt Station sample cover">
+  <rect width="1200" height="900" fill="#F1F3F6"/>
+  <path d="M0 0h1200v24H0z" fill="#15181D"/>
+  <text x="90" y="430" font-size="56" font-weight="700" fill="#15181D" font-family="'Space Grotesk','Inter',Arial,sans-serif">Sample product</text>
+  <text x="90" y="490" font-size="22" fill="#3F454E" font-family="'Inter',Arial,sans-serif">Add product artwork to appear here</text>
+  <text x="90" y="842" font-size="15" fill="#8A8F98" font-family="'Inter',Arial,sans-serif">Prompt Station · placeholder cover</text>
+</svg>
