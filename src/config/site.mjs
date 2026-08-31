@@ -43,8 +43,8 @@ export const SITE = {
 
   /** Contact details. */
   contact: {
-    email: 'YOUR_EMAIL@example.com', // ← REPLACE
-    supportEmail: 'YOUR_EMAIL@example.com', // ← REPLACE (same is fine)
+    email: 'promptstation@gmail.com', // ← REPLACE
+    supportEmail: 'promptstation@gmail.com', // ← REPLACE (same is fine)
   },
 
   /** Social links — leave as '' to hide the icon in the footer. */
