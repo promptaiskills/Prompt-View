@@ -29,7 +29,7 @@ export const SITE = {
   name: 'Prompt Station',
 
   /** Short tagline — used under the logo, in meta and on the homepage. */
-  tagline: 'AI skills for structural real work & real workflow impact',
+  tagline: 'AI skills for structural work & real workflow impact',
 
   /** One-sentence store description (meta description & OG fallback). */
   description:
